@@ -1,0 +1,1 @@
+Read more about [JavaBeans](http://java.sun.com/javase/technologies/desktop/javabeans/index.jsp)
